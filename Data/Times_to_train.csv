@@ -1,0 +1,11 @@
+﻿Classifier,Type,train_data_size,train_time,predict_time,accuracy,supp_vectors
+SVM,Original,"46,481",5.91,1.89,83.12,
+SVM,Original,"116,202",22.8,4.55,84.58,
+SVM,Original,"232,405",95.71,8.62,85.59,
+SVM,Original,"464,809",373.4,17.03,86.52,"171,451"
+SVM,Sampled,"1,320,256",635.25,28.78,85.31,"292,138"
+MLP,Original,"46,481",6.53,,,
+MLP,Original,"116,202",12.65,,,
+MLP,Original,"232,405",32.6,,,
+MLP,Original,"464,809",65.48,0.0395,,
+MLP,Sampled,"1,320,256",112.4,0.0437,,
