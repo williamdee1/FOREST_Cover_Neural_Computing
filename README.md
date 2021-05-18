@@ -7,7 +7,7 @@ Forest cover type prediction is important for land management agencies as it ref
 
 ![image](https://user-images.githubusercontent.com/54633647/118670673-b9120f00-b7ee-11eb-8f9a-5f2af9b38af5.png)
 
-![image](https://user-images.githubusercontent.com/54633647/118670741-c9c28500-b7ee-11eb-876a-3a31534c1d60.png)
+## Pairplot of correlated variables in dataset:
 
 ![image](https://user-images.githubusercontent.com/54633647/118670804-d6df7400-b7ee-11eb-9c19-2fc449e0e652.png)
 
